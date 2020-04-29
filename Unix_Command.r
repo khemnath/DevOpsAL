@@ -1,3 +1,4 @@
+UNIX COmmands:-
 MAILX:
 -- Method 1 :  Sending Mail using uuencode.
   $ uuencode [path/to/file] [name_of_attachment] | mailx -s "Subject" user@domain.com
